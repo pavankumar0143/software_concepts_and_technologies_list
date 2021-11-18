@@ -40,3 +40,5 @@
 *   Cto Resources\[[https://github.com/mateusz-brainhub/awesome-cto-resources#awesome-cto-resources-](https://github.com/mateusz-brainhub/awesome-cto-resources#awesome-cto-resources-)\] Articles, podcasts of Cto's of different Organisations
 *   Production Machine Learning\[[https://github.com/EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)\]
 *   Cyber Security\[[https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)\]
+*   Blockchain\[https://github.com/yjjnls/awesome-blockchain]
+*   Game Theory\[https://github.com/cheat-sheets/game-theory-cheat-sheet]
