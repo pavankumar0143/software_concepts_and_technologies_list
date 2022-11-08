@@ -45,4 +45,5 @@ Curated list of resources and List of Resources of  Tech Blogs, Fortune500 compa
 *   [Cyber Security](https://github.com/sbilly/awesome-security)
 *   [Blockchain](https://github.com/yjjnls/awesome-blockchain)
 *   [Game Theory](https://github.com/cheat-sheets/game-theory-cheat-sheet)
+*   [Devops-Learning](https://github.com/Lets-DevOps/awesome-learning)
 
